@@ -38,6 +38,6 @@ if os.path.isfile("rockyou.txt"):
     main()
     
 else:
-	os.system("wget -q https://github.com/Truthful-Hacker/wordlist/rockyou.txt")
+	os.system("wget -q http://tapr00t.com/files/wordlists/rockyou.txt")
 	main()
 
